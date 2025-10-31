@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the host directory to mount
-HOST_DIR=$HOME/dev/repos/cuda/docker/cudadev
+HOST_DIR=$HOME/dev/repos/cuda/code/
 
 # Set the container path
 CONTAINER_DIR=/workspace
